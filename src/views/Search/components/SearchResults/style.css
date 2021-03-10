@@ -1,0 +1,23 @@
+
+ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    padding:10px;
+    margin:10px;
+    background-color: red;
+  
+  }
+  
+  
+  .completed {
+    background-color:green;
+  
+  }
+  .tareas {
+    padding: 20px;
+  }
+  
